@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;App-Server&apos;&#x0D;&#x0A;- Original project: &apos;App-Server&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     baiwa.config.AdditionalWebConfig.java&#x0D;&#x0A;     baiwa.config.AuthorizationServerConfig.java&#x0D;&#x0A;     baiwa.config.DatasourceConfig.java&#x0D;&#x0A;     baiwa.config.SecurityConfig.java" description="Delete elements" element1="/src\/main\/java&lt;baiwa.config{DatasourceConfig.java" element2="/src\/main\/java&lt;baiwa.config{SecurityConfig.java" element3="/src\/main\/java&lt;baiwa.config{AdditionalWebConfig.java" element4="/src\/main\/java&lt;baiwa.config{AuthorizationServerConfig.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1507130929882" subPackages="false" version="1.0"/>
+</session>
